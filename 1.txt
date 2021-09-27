@@ -1,1 +1,2 @@
 Hello
+Git nie jest trudny
